@@ -7,4 +7,4 @@ Compared the results to get the best Classification Model based on Chemical prop
 
 COLAB NOTEBOOK Link:https://colab.research.google.com/drive/1mqyLPu-4HRySsiWjY6dtCzpC019kHWyb?usp=sharing
 
-PROJECT PRESENTATION Link:https://1drv.ms/p/s!AtwEimPMZ-VHnUzUoEfg5dJmkTRR?e=0eYyWx
+
